@@ -4,12 +4,12 @@ I'm a passionate Computer Science graduate actively seeking a **full-time job op
 
 ---
 
-## 🛠️ About Me  1
+## 🛠️ About Me  
 
 - 🎓 Graduate from **C. V. Raman Global University, Bhubaneswar** (CSE @ CGU).  
 - 🌱 Continuously improving skills in **Java**, **Spring Boot**, and **Web Development**.  
 - 🔭 Actively seeking opportunities in **Software Development** and **Full Stack Development**.  
-- 💬 Ask me about **Java, JavaScript, HTML, CSS, SQL**, or **Spring Boot**.  
+- 💬 Ask me about **Java, JavaScript, HTML, CSS, SQL**, and **Spring Boot**.  
 - 📫 How to reach me: [arpitap742@gmail.com](mailto:arpitap742@gmail.com).  
 - 😄 Pronouns: She/Her.  
 - ⚡ Fun fact: I enjoy **drawing, problem-solving**, and exploring creative tools like Canva.  
@@ -50,7 +50,8 @@ I'm a passionate Computer Science graduate actively seeking a **full-time job op
   <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />  
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />  
   <img src="https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven" />  
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />  
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" />
 </p>  
 
 ---
