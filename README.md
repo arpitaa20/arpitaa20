@@ -4,7 +4,7 @@ I'm a passionate Computer Science graduate actively seeking a **full-time job op
 
 ---
 
-## 🛠️ About Me  
+## 🛠️ About Me  1
 
 - 🎓 Graduate from **C. V. Raman Global University, Bhubaneswar** (CSE @ CGU).  
 - 🌱 Continuously improving skills in **Java**, **Spring Boot**, and **Web Development**.  
