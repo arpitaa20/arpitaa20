@@ -10,9 +10,8 @@ I'm a passionate Computer Science graduate actively seeking a **full-time job op
 - 🌱 Continuously improving skills in **Java**, **Spring Boot**, and **Web Development**.  
 - 🔭 Actively seeking opportunities in **Software Development** and **Full Stack Development**.  
 - 💬 Ask me about **Java, JavaScript, HTML, CSS, SQL**, and **Spring Boot**.  
-- 📫 How to reach me: [arpitap742@gmail.com](mailto:arpitap742@gmail.com).  
-- 😄 Pronouns: She/Her.  
-- ⚡ Fun fact: I enjoy **drawing, problem-solving**, and exploring creative tools like Canva.  
+- 📫 How to reach me: [arpitap742@gmail.com](mailto:arpitap742@gmail.com).    
+- ⚡ Fun fact: I enjoy **problem-solving, drawing, travelling**, and exploring creative tools like Canva.  
 
 ---
 
