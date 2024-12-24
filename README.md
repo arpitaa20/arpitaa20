@@ -18,11 +18,11 @@ I'm a passionate Computer Science graduate actively seeking a **full-time job op
 
 ## 🚀 Skills & Tools  
 
-### **Programming**  
+### **Programming Languages**  
 <p align="left">  
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />  
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />  
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />  
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />  
 </p>  
 
 ### **Web Development**  
@@ -31,9 +31,24 @@ I'm a passionate Computer Science graduate actively seeking a **full-time job op
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />  
 </p>  
 
-### **Databases & Tools**  
+### **Frameworks & Libraries**  
+<p align="left">  
+  <img src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />  
+  <img src="https://img.shields.io/badge/Hibernate-%23914F27.svg?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />  
+  <img src="https://img.shields.io/badge/JDBC-%23323330.svg?style=for-the-badge&logoColor=white" alt="JDBC" />  
+</p>  
+
+### **Databases**  
 <p align="left">  
   <img src="https://img.shields.io/badge/SQL-%230074D9.svg?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />  
+</p>  
+
+### **Tools**  
+<p align="left">  
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />  
+  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />  
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />  
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />  
   <img src="https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven" />  
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />  
 </p>  
